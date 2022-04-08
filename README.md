@@ -74,7 +74,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## Classification Report:
 ![output]()
 
-
+## Predicted Values:
 ![output]()
 
 
