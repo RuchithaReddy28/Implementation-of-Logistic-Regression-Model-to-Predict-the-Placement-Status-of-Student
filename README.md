@@ -72,11 +72,10 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![output](https://github.com/RuchithaReddy28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/x3.PNG?raw=true)
 
 ## Classification Report:
-![output]()
-
-## Predicted Values:
 ![output](https://github.com/RuchithaReddy28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/x4.PNG?raw=true)
 
+## Predicted Values:
+![output](https://github.com/RuchithaReddy28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/x5.PNG?raw=true)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
